@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+model2/saved_model/checkpoint-*/
+model2/saved_model/model.safetensors

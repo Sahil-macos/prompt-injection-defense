@@ -1,0 +1,17 @@
+{
+  "test_samples": 942,
+  "accuracy": 0.9575371549893843,
+  "precision": 0.9740740740740741,
+  "recall": 0.9528985507246377,
+  "f1": 0.9633699633699634,
+  "roc_auc": 0.995006503158677,
+  "true_negatives": 376,
+  "false_positives": 14,
+  "false_negatives": 26,
+  "true_positives": 526,
+  "model1_only": 394,
+  "model2_used": 548,
+  "model2_verification_rate": 58.174097664543524,
+  "routing_threshold": 0.3,
+  "roberta_threshold": 0.5
+}

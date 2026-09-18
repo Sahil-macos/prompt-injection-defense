@@ -1,0 +1,45 @@
+NEURALCHEMY DATASET VERIFICATION REPORT
+============================================================
+
+Split: train
+Original: 14036
+Missing text removed: 0
+Empty text removed: 0
+Invalid labels removed: 0
+Duplicates removed: 102
+Category/label mismatches: 130
+Final: 13934
+Benign: 5156
+Malicious: 8778
+
+Split: validation
+Original: 941
+Missing text removed: 0
+Empty text removed: 0
+Invalid labels removed: 0
+Duplicates removed: 0
+Category/label mismatches: 11
+Final: 941
+Benign: 407
+Malicious: 534
+
+Split: test
+Original: 942
+Missing text removed: 0
+Empty text removed: 0
+Invalid labels removed: 0
+Duplicates removed: 0
+Category/label mismatches: 9
+Final: 942
+Benign: 390
+Malicious: 552
+
+CROSS-SPLIT TEXT OVERLAP
+Train/Validation: 0
+Train/Test: 0
+Validation/Test: 0
+
+GROUP ID OVERLAP
+Train/Validation: 0
+Train/Test: 0
+Validation/Test: 0
